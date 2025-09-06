@@ -6,8 +6,6 @@ The software enables two or more peers to establish direct communication without
 
 The purpose of this software is to explore how peer-to-peer communication models work in practice, learn how to manage socket connections effectively, and build a foundation for future distributed applications.  
 
-[Software Demo Video]
-
 # Development Environment
 
 - **Tools & Frameworks:**
