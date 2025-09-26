@@ -1,0 +1,41 @@
+# Visual Studio / .NET Core build output
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider / JetBrains
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+
+# Dotnet artifacts
+project.lock.json
+project.fragment.lock.json
+
+# Backup / temp files
+*.bak
+*.tmp
+*.swp
+
+# Other
+launchSettings.json
