@@ -1,6 +1,6 @@
 # Overview
 
-My goal with this project was to deepen my understanding of network programming by implementing a client-server application using TCP sockets in C#. This project allowed me to explore socket programming, asynchronous communication, and command processing in a networked environment, to improve my skills in building reliable and interactive networked systems.
+My goal with this project was to deepen my understanding of network programming by building a client-server application using TCP sockets in C#. This project allowed me to explore socket programming, asynchronous communication, and command processing in a networked environment, to improve my skills in building reliable and interactive networked systems.
 
 The software consists of two components: a **TCP Server** and a **TCP Client**. The server listens for incoming connections and processes commands from clients, while the client connects to the server to send commands and receive responses. The server supports commands like `HELP`, `TIME`, `ECHO`, `UPPER`, `REVERSE`, `MATH`, and `QUIT`, providing a simple yet extensible command-based protocol.
 
