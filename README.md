@@ -1,4 +1,4 @@
-# Overview
+# Overview:
 
 My goal with this project was to deepen my understanding of network programming by building a client-server application using TCP sockets in C#. This project allowed me to explore socket programming, asynchronous communication, and command processing in a networked environment, to improve my skills in building reliable and interactive networked systems.
 
